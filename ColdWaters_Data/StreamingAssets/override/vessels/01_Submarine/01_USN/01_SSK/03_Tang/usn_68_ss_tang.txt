@@ -95,7 +95,8 @@ DamageControlPartyY=-31
 //Masts
 AssetBundle=bundles/vessels/usn_ss_guppy_tench.unity3d
 ModelFile=assets/models/usn_68_guppy_tench.fbx
-Material=assets/materials/usn_68_guppy_tench_tx.mat
+-Material=assets/materials/usn_68_guppy_tench_tx.mat
+Material=assets/materials/roc_73_guppy_tench.mat
 MeshScale=0.9,0.9,0.97
 MeshRotation=0,0,0
 
