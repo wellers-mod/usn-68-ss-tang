@@ -122,16 +122,16 @@ MeshPosition=0.011,0.11,0.035
 MeshRotation=0,0,0
 Mesh=usn_68_guppy_tench_sail_antenna
 
-MeshPosition=0,-0.04,-0.09
+MeshPosition=0,-0.035,-0.09
 MeshScale=0.6,1.1,1.1
 Mesh=PUFFS_Sonar_dome_F
 
-MeshPosition=0,-0.04,-0.100
+MeshPosition=0,-0.035,-0.100
 MeshRotation=0,-0.0500000000,0
 MeshScale=1,1,1
 Mesh=PUFFS_Sonar_dome_M
 
-MeshPosition=0,-0.04,-0.012
+MeshPosition=0,-0.035,-0.012
 MeshRotation=0,0,0
 Mesh=PUFFS_Sonar_dome_R
 
