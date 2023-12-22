@@ -43,7 +43,7 @@ RADARSignature=SMALL
 
 [Weapon Systems]
 TorpedoTypes=usn_mk37_mod2,usn_mk16,usn_mk45
-TorpedoNumbers=14,12,2
+TorpedoNumbers=14,10,2
 TorpedoTubes=8
 NumberOfWires=1
 TubeConfig=1,1,1,1,1,1,1,1
